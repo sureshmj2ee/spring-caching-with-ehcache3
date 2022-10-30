@@ -12,9 +12,9 @@ Download and import the project in Intellij.
 curl http://localhost:8080/Smith
 curl http://localhost:8080/person/Smith
 
-execute after 5 seconds below command.
+execute after 10 seconds below command.
 curl http://localhost:8080/person/Smith
-now we can see that Smith is automatically removed from cached after 5 seconds, as we have configured 5 seconds for clearing cache.
+now we can see that Smith is automatically removed from cached after 10 seconds, as we have configured 10 seconds for clearing/expire cache.
 
 
 we can manually evict from cache.
