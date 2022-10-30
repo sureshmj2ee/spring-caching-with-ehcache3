@@ -1,7 +1,5 @@
 # spring-caching-with-ehcache3
-spring-boot-caching-with-ehcache3
-
-Spring Boot2, Java 16, Lombok, ehcache3
+Technology: Spring boot2 + ehcache3 + Lombok + Java 16 + Maven Example
 
 
 How to test:
