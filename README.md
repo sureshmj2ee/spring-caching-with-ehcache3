@@ -5,7 +5,9 @@ Spring Boot2, Java 16, Lombok, ehcache3
 
 
 How to test:
-1) SpringCachingWithEhcache3Application.java as spring boot application.
+Download and import the project in Intellij.
+
+1) Run SpringCachingWithEhcache3Application.java as spring boot application.
 
 2) Open git bash and run below commands.
 
