@@ -13,8 +13,10 @@ curl http://localhost:8080/Smith
 curl http://localhost:8080/person/Smith
 
 execute after 10 seconds below command.
+
 curl http://localhost:8080/person/Smith
-now we can see that Smith is automatically removed from cached after 10 seconds, as we have configured 10 seconds for clearing/expire cache.
+
+now we can see that Smith is automatically removed from cache after 10 seconds, as we have configured 10 seconds for clearing/expire cache.
 
 
 we can manually evict from cache.
